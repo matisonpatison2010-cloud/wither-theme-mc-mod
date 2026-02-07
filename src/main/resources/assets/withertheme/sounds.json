@@ -1,0 +1,10 @@
+{
+  "wither_theme": {
+    "sounds": [
+      {
+        "name": "withertheme:wither_theme",
+        "stream": true
+      }
+    ]
+  }
+}
